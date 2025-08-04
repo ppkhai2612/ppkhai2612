@@ -1,3 +1,3 @@
 ## Hi, I'm Khai 👋
 
-I simply am a data enthusiast, always curious about how data can help make better decisions. My objectives over the next few years are to become an expert in the field of data, bringing lots of value to the company and society.
+I'm a data enthusiast, currently looking for a job in the field of Data Engineering/Analytics Engineering with the desire to improve my data skills as well as contribute to the development of the company.
